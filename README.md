@@ -4,6 +4,12 @@
 
 # How To Use : 
 
+$ pkg update && upgrade
+
+
+$ pkg install wget && php
+
+
 $ git clone https://github.com/Tasin-coder/FB-Video-Downloader.git
 
 
