@@ -4,17 +4,17 @@
 
 # How To Use : 
 
-$ pkg update && upgrade
+>$ pkg update && upgrade
 
 
-$ pkg install wget && php
+>$ pkg install wget && php
 
 
-$ git clone https://github.com/Tasin-coder/FB-Video-Downloader.git
+>$ git clone https://github.com/Tasin-coder/FB-Video-Downloader.git
 
 
 
-$ cd FB-Video-Downloader
+>$ cd FB-Video-Downloader
 
 
-$ php fbvid.php
+>$ php fbvid.php
