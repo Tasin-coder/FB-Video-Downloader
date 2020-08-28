@@ -2,20 +2,19 @@
 # Facebook-Video-Downloader Version 1.0.0
 ### Facebook Video Downloader (CLI) For Linux Systems Coded in PHP
 
-* How To Use : 
+* Commands : 
 ```
->$ pkg update && upgrade
-```
-```
->$ pkg install wget && php
+$ pkg update && upgrade
 ```
 ```
->$ git clone https://github.com/Tasin-coder/FB-Video-Downloader.git
+$ pkg install wget && php
+```
+```
+$ git clone https://github.com/Tasin-coder/FB-Video-Downloader.git
 ```
 ```
 $ cd FB-Video-Downloader
 ```
-
 ```
 $ php fbvid.php
 ```
