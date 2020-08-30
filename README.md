@@ -5,6 +5,7 @@
 ![Screenshot_20200829-130244_Termux](https://user-images.githubusercontent.com/61790940/91631018-fd0e7b00-e9f7-11ea-83e0-45efa9ce9739.jpg)
 
 [Follow Facebook](https://www.facebook.com/adib.tasin.16) 
+[Follow Instagram](https://www.instagram.com/altasin2003/) 
 * Commands : 
 ```
 $ pkg update && upgrade
